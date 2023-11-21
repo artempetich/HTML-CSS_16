@@ -1,4 +1,4 @@
-## [Посмотреть сайт](https://artempetich.github.io/)
+## [Посмотреть сайт](https://github.com/artempetich/artempetich.github.io-HTML-CSS_16-)
 
 ## HTML-CSS-homework9
 
